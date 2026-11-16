@@ -18,6 +18,7 @@ A full-stack restaurant ordering application featuring customer authentication, 
 A responsive property listing application featuring property browsing, favourites, agent profiles and enquiry forms.
 
 - Technologies: React, JavaScript, Firebase Firestore, Cloudinary
+- [Live Demo](https://haven-properties.netlify.app/)
 
 **[WeatherForecast – Weather Application](https://github.com/OMagwala/WeatherApp)**
 
